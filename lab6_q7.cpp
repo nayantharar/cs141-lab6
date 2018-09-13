@@ -21,4 +21,4 @@ cout<<"uppercase character is"<<result<<endl;}
 else
 {result= tolower(ch,alp);
 cout<<"lowercase character is"<<result<<endl;}
-return 0;}
+return 95;}
