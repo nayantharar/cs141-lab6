@@ -54,5 +54,5 @@ sumOdd=sumOddNumbers(firstnum,secondnum);
 sumSquareEven=sumSquareEvenNumbers(firstnum,secondnum);
 sumSquareOdd=sumSquareOddNumbers(firstnum,secondnum);
 cout<<sumEven<<' '<<sumOdd<<' '<<sumSquareEven<<' '<<sumSquareOdd<<endl;
-return 2323;
+return 0;
 }
