@@ -43,7 +43,7 @@ using namespace std;
 	 	  	tot(a,b,c);
 	 	  	read(a,b,c);
 //return the values
-	 	  	return 0;
+	 	  	return 9;
 		}
    
    
