@@ -34,5 +34,5 @@ int main()
   cin>>a>>b;
   byvalue(a,b);
   byreference(a,b,sum);
-return 0;
+return 9;
 }
