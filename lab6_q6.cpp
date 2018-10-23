@@ -78,5 +78,5 @@ sumSquareEven=sumSquareEvenNumbers(firstnum,secondnum);
 sumSquareOdd=sumSquareOddNumbers(firstnum,secondnum);
   
 cout<<sumEven<<' '<<sumOdd<<' '<<sumSquareEven<<' '<<sumSquareOdd<<endl;
-return 0;
+return 9;
 }
