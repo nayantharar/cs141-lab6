@@ -24,6 +24,6 @@ int main()
 
 //result
 sum(a,b);
-return 0;
+return 9;
 }
 
