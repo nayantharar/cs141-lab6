@@ -34,7 +34,7 @@ int main ()
    cout <<"both the numbers are equal" endl;
  else 
    cout <<"maximum is"<<c endl;
- return 0;
+ return 9;
 }
     
   
