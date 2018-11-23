@@ -31,7 +31,7 @@ int sumOddnumbers(int a,int b)
 return sum;
 }
 
-int sumSquareOddNumbers(int a,int b)
+int sumSquareOddnumbers(int a,int b)
 { 
   int sum=0,i=a+1;
   while(i<=b-1)
@@ -48,7 +48,7 @@ i++;
   return sum;
 }
 
-int sumSquareEvenNumbers(int a,int b)
+int sumSquareEvennumbers(int a,int b)
 {
    int sum=0,i=a+1;
    while(i<=b-1)
@@ -72,10 +72,10 @@ int firstnum,secondnum,sumEven,sumOdd,sumSquareEven,sumSquareOdd;
   cout<<"enter the  numbers in ascending order "<<endl;
   cin>>firstnum>>secondnum;
   //get the values and print them
-sumEven=sumEvenNumbers(firstnum,secondnum);
-sumOdd=sumOddNumbers(firstnum,secondnum);
-sumSquareEven=sumSquareEvenNumbers(firstnum,secondnum);
-sumSquareOdd=sumSquareOddNumbers(firstnum,secondnum);
+sumEven=sumEvennumbers(firstnum,secondnum);
+sumOdd=sumOddnumbers(firstnum,secondnum);
+sumSquareEven=sumSquareEvennumbers(firstnum,secondnum);
+sumSquareOdd=sumSquareOddnumbers(firstnum,secondnum);
   
 cout<<sumEven<<' '<<sumOdd<<' '<<sumSquareEven<<' '<<sumSquareOdd<<endl;
 return 9;
