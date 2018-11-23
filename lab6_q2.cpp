@@ -16,10 +16,11 @@ void sum(int a,int b)
 //write the main function
 int main()
 {
-    //declare variables needed
+    //declare variables 
      cout<<"to find sum of two functioning function
      int a,b;
-     cout<<"\nenter any two numbers\n";
+   
+     cout<<"enter any two numbers"<<endl;
      cin>>a>>b;
 
 //result
